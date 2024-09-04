@@ -1,0 +1,12 @@
+[package]
+name = "yiffer-dl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.2"
+reqwest = "0.12.7"
+serde = { version = "1.0.209", features = ["derive"]}
+serde_json = "1.0.127"
+tokio = {version = "1.35.1", features = ["full"]}
+urlencoding = "2.1.3"

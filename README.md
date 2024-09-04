@@ -6,4 +6,3 @@ It's super fast tho.
 
 # Note for the owner of yiffer.xyz
 Write an issue in this repo if you want to take this down.
-# yiffer-dl
