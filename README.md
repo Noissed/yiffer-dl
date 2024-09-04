@@ -5,4 +5,4 @@ Note: code is shit. I didn't have the API at hand and I only looked at [this](ht
 It's super fast tho.
 
 # Note for the owner of yiffer.xyz
-Write an issue in this repo if you want to take this down.
+Open an issue in this repo if you want to take this down.
